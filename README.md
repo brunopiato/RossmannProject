@@ -18,4 +18,4 @@ In 2015 they published their data on Kaggle and created a [Kaggle competition](h
 ## 2. The approach
 To achieve this, we used a combination of time series analysis and machine learning algorithms, following the steps inside the CRISP-DM methodology:
 
-!()[img/crisp_ds.png]
+!(CRIPS-DS)[https://raw.githubusercontent.com/brunopiato/RossmannProject/master/img/crisp_ds.png]
