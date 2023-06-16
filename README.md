@@ -48,3 +48,5 @@ Once the models are trained, we need to evaluate them and choose the best one to
 
 #### 9. Deployment
 In this final step we can deploy the best model to the production environment so the users benefit from it making the needed predictions to make their business decisions.
+
+## 3. 
