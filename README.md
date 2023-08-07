@@ -4,7 +4,7 @@
 
 **Author**: Bruno Piato
 
-**Date**: 2021-03-03
+**Date**: 2023-05-20
 
 **Description**: This is a portfolio project I developed along with the "DS em Produção" classes of Comunidade Data Science. We used a drugstores dataset to predict sales for the next six weeks for each store using time series analysis and machine learning algorithms.
 
