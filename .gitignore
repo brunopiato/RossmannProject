@@ -1,0 +1,4 @@
+.python-version
+__pycache__
+Rossmann.cpython-310.pyc
+train_ready.csv
